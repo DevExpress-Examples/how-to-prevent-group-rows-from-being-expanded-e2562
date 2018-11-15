@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DataSource.cs](./CS/Prevent Group Rows from Expanding/DataSource.cs) (VB: [DataSource.vb](./VB/Prevent Group Rows from Expanding/DataSource.vb))
+* [MainPage.xaml](./CS/Prevent Group Rows from Expanding/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/Prevent Group Rows from Expanding/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/Prevent Group Rows from Expanding/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/Prevent Group Rows from Expanding/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to Prevent Group Rows from being Expanded
 
 
